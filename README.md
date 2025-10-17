@@ -1,1 +1,1 @@
-# sample-task_003
+# Generate a fully working calculator web app that runs on GitHub Pages. It should have index.html, script.js, and style.css. The app must allow users to input two numbers, then click buttons to add, subtract, multiply, or divide, and display the result dynamically. Return a JSON array of objects with "name" and "content" for each file. Do not put the instructions as text in index.html; write actual working code.
